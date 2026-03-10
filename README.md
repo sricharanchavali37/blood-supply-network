@@ -26,6 +26,18 @@ Core modules:
 
 \- Event logging
 
+## System Architecture
+
+!\[Architecture](docs/architecture.png)
+
+
+
+\## Database ER Diagram
+
+!\[Database ER](docs/database\_er.png)
+
+
+
 
 
 Integration testing:
@@ -49,4 +61,7 @@ uvicorn app.main:app --reload
 Docs:
 
 http://127.0.0.1:8000/docs
+
+
+
 
